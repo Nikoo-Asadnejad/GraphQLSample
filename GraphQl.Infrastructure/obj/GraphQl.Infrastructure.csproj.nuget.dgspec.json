@@ -136,6 +136,10 @@
             "MongoDB.Bson": {
               "target": "Package",
               "version": "[2.19.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
             }
           },
           "imports": [

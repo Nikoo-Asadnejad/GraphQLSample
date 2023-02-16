@@ -8,7 +8,7 @@ namespace GraphQl.Infrastructure.Configurations;
 
 public static class InfrastructureConfigurator
 {
-    public static void InjectServices(this IServiceCollection services, IConfiguration config)
+    public static void InjectInfraServices(this IServiceCollection services, IConfiguration config)
     {
         MongoRepositoryDllConfigurator.InjectServices(services);
         services.AddScoped<IUserService, UserService>();
