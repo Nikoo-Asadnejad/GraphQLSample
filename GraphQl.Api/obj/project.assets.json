@@ -2226,11 +2226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Api/GraphQl.Api.csproj",
+      "projectUniqueName": "/Users/macbook/Projects/GraphQlSample/GraphQl.Api/GraphQl.Api.csproj",
       "projectName": "GraphQl.Api",
-      "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Api/GraphQl.Api.csproj",
+      "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Api/GraphQl.Api.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Api/obj/",
+      "outputPath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -2245,8 +2245,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {
-              "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj"
+            "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {
+              "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj"
             }
           }
         }

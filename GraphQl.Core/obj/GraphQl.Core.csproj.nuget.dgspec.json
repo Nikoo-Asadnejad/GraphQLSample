@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {}
+    "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {
+    "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
+        "projectUniqueName": "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
         "projectName": "GraphQl.Core",
-        "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
+        "projectPath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/obj/",
+        "outputPath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

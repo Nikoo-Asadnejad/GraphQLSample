@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlnfcIEMvPCLwbUDfrhhhLX9K3cZnZ95c9Uyrhhor/HoyDW07HDCutQg1eAnsMsG9ut/cn2T9JdbZELL/hqR9Q==",
+  "dgSpecHash": "v8b93vLg3vjORC5oeY131DknyBtY4X0gp/jL//D747Sn92Y4c+JGa2xbWRZbJMAqVWrUEx2Jn2jFedl3YJ9XGQ==",
   "success": true,
-  "projectFilePath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Infrastructure/GraphQl.Infrastructure.csproj",
+  "projectFilePath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Infrastructure/GraphQl.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/greendonut/13.0.2/greendonut.13.0.2.nupkg.sha512",
     "/Users/macbook/.nuget/packages/hotchocolate/13.0.2/hotchocolate.13.0.2.nupkg.sha512",

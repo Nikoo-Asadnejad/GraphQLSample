@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PlXfMUuDsBqPvzIhrhYTf+W8egN9bQwiPUsX0BvpV7poBdup63P4dxPiwu81pZOZMH5cjdyCbbl+BsfK5XxoBA==",
+  "dgSpecHash": "3TGd8uiHN09/PpOWpUSVwaoZ+9X5AG1LfanwROZ+hiqUbvpliG7Q9RIVz61UCjBPjaNgnph7IVyGNpbSHTHWkA==",
   "success": true,
-  "projectFilePath": "/Users/macbook/Projects/GraphQlSample/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
+  "projectFilePath": "/Users/macbook/Projects/GraphQlSample/GraphQl.Core/GraphQl.Core.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/hotchocolate.abstractions/13.0.2/hotchocolate.abstractions.13.0.2.nupkg.sha512",
     "/Users/macbook/.nuget/packages/hotchocolate.language/13.0.2/hotchocolate.language.13.0.2.nupkg.sha512",
