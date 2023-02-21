@@ -1,6 +1,5 @@
 using GraphQl.Core.Entities;
 using HotChocolate.Types;
-
 namespace GraphQl.Core.Types;
 public class UserType  : ObjectType<UserDocument>
 {

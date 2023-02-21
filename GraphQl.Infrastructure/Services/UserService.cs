@@ -12,20 +12,9 @@ public class UserService : IUserService
     {
         _repository = repository;
     }
-    public async Task Create(UserDocument user)
-    {
-        await _repository.InsertAsync(user);
-    }
-    public async Task<UserDocument> Get(string objectId)
-    {
-        return await _repository.FindByIdAsync(objectId);
-    }
-    public async  Task<List<UserDocument>> GetList()
-    {
-        return await _repository.FilterByAsync(u => true);
-    }
-    public async  Task Update(UserDocument user)
-    {
-        await _repository.ReplaceOneAsync(user);
-    }
+    public async Task Create(UserDocument user) => await _repository.InsertAsync(user);
+    public async Task<UserDocument> Get(string objectId) => await _repository.FindByIdAsync(objectId);
+    public async  Task<List<UserDocument>> GetList() 
+        => await _repository.FilterByAsync(u => true);
+    public async  Task Update(UserDocument user) => await _repository.ReplaceOneAsync(user);
 }
