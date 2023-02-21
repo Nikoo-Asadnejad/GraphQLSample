@@ -2,7 +2,7 @@ using GraphQl.Core.Entities;
 using GraphQl.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 namespace GraphQl.Api.Queries;
-public class AppQuery
+public class Query
 {
     public async Task<List<UserDocument>> GetUsers([FromServices] IUserService service)
         => await service.GetList();

@@ -10,7 +10,7 @@ public static class Configurator
     {
         services.InjectAppServices(config);
         services.AddGraphQLServer()
-            .AddQueryType<AppQuery>()
+            .AddQueryType<Query>()
             .AddType<UserType>();
     }
 
