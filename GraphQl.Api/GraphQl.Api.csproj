@@ -20,9 +20,4 @@
       </Content>
     </ItemGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\GraphQl.Core\GraphQl.Core.csproj" />
-      <ProjectReference Include="..\GraphQl.Ioc\GraphQl.Ioc.csproj" />
-    </ItemGroup>
-
 </Project>

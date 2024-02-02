@@ -17,13 +17,13 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Reference Include="MongoRepository">
-        <HintPath>..\..\..\MongoGenericRepository\MongoRepository\MongoRepository\bin\Release\net6.0\MongoRepository.dll</HintPath>
-      </Reference>
+      <ProjectReference Include="..\GraphQl.Core\GraphQl.Core.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\GraphQl.Core\GraphQl.Core.csproj" />
+      <Reference Include="MongoRepository">
+        <HintPath>Dlls\MongoRepository\MongoRepository.dll</HintPath>
+      </Reference>
     </ItemGroup>
 
 </Project>
